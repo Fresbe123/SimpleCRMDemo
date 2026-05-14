@@ -1,0 +1,664 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\pipeline.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\pipeline.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\pipeline.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\pipeline.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\opportunities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\opportunities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\models\\opportunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:models\\opportunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\controllers\\opportunitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:controllers\\opportunitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\crmdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:crmdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|c:\\users\\neto\\documents\\crmtest\\crmdemo\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DD4C4242-2BEF-46B3-BCD5-8933A169C10F}|CRMDemo.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:20:07.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:20:53.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:08:58.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:21:42.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Create.cshtml.cs",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:25:56.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:04:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:03:57.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T19:20:32.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pipeline.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Pipeline.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Pipeline.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Pipeline.cshtml.cs",
+              "RelativeToolTip": "Views\\Opportunities\\Pipeline.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:26:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pipeline.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Pipeline.cshtml",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Pipeline.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Pipeline.cshtml",
+              "RelativeToolTip": "Views\\Opportunities\\Pipeline.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwCoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:10:46.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T11:13:00.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T11:13:02.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T11:13:07.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Index.cshtml.cs",
+              "RelativeToolTip": "Views\\Opportunities\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:25:07.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Index.cshtml",
+              "RelativeToolTip": "Views\\Opportunities\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:17:22.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T09:27:03.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:25:40.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Edit.cshtml.cs",
+              "RelativeToolTip": "Views\\Opportunities\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:12:37.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Details.cshtml.cs",
+              "RelativeToolTip": "Views\\Opportunities\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:12:33.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Delete.cshtml.cs",
+              "RelativeToolTip": "Views\\Opportunities\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:12:28.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Create.cshtml.cs",
+              "RelativeToolTip": "Views\\Opportunities\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:12:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:22:23.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Index.cshtml.cs",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:12:13.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Opportunities\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAADwv0EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:17:05.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Customers\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Edit.cshtml.cs",
+              "RelativeToolTip": "Views\\Customers\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:12:07.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Details.cshtml",
+              "RelativeToolTip": "Views\\Opportunities\\Details.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:16:44.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:08:16.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Opportunities\\Delete.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:16:17.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Customers\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Delete.cshtml.cs",
+              "RelativeToolTip": "Views\\Customers\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:26:14.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Opportunities\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Opportunities\\Create.cshtml",
+              "RelativeToolTip": "Views\\Opportunities\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvz8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:16:06.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Details.cshtml.cs",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:11:57.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:07:55.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:07:27.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:08:39.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Opportunity.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Models\\Opportunity.cs",
+              "RelativeDocumentMoniker": "Models\\Opportunity.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Models\\Opportunity.cs",
+              "RelativeToolTip": "Models\\Opportunity.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:40:26.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:21:08.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OpportunitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Controllers\\OpportunitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OpportunitiesController.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Controllers\\OpportunitiesController.cs",
+              "RelativeToolTip": "Controllers\\OpportunitiesController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAswK4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:03:30.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:03:12.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CRMDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\CRMDemo.csproj",
+              "RelativeDocumentMoniker": "CRMDemo.csproj",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\CRMDemo.csproj",
+              "RelativeToolTip": "CRMDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T19:19:43.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Neto\\Documents\\CRMTest\\CRMDemo\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-13T19:11:24.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

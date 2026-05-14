@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CRMDemo.Models.Opportunity>
+
+@{
+    ViewData["Title"] = "Opportunities";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1>Opportunities</h1>
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus"></i> Add New Opportunity
+        </a>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Customer</th>
+                        <th>Value</th>
+                        <th>Stage</th>
+                        <th>Expected Close</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Customer.Name)</td>
+                            <td>@item.Value.ToString("C")</td>
+                            <td>
+                                <span class="badge bg-@(item.Stage.ToString() == "ClosedWon" ? "success" :
+                                                                                     item.Stage.ToString() == "ClosedLost" ? "danger" : "info")">
+                                @Html.DisplayFor(modelItem => item.Stage)
+                            </span>
+                        </td>
+                        <td>@(item.ExpectedCloseDate?.ToString("dd/MM/yyyy") ?? "Not set")</td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Details</a>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                                        }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

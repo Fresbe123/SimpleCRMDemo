@@ -1,0 +1,66 @@
+﻿@model CRMDemo.Models.Opportunity
+
+@{
+    ViewData["Title"] = "Edit Opportunity";
+}
+
+<div class="container mt-4">
+    <h1>Edit Opportunity</h1>
+
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="CreatedAt" />
+
+                <div class="form-group mb-3">
+                    <label asp-for="Title" class="control-label"></label>
+                    <input asp-for="Title" class="form-control" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Description" class="control-label"></label>
+                    <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Value" class="control-label"></label>
+                    <input asp-for="Value" class="form-control" />
+                    <span asp-validation-for="Value" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Stage" class="control-label"></label>
+                    <select asp-for="Stage" asp-items="Html.GetEnumSelectList<CRMDemo.Models.OpportunityStage>()" class="form-control"></select>
+                    <span asp-validation-for="Stage" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="ExpectedCloseDate" class="control-label"></label>
+                    <input asp-for="ExpectedCloseDate" class="form-control" type="date" />
+                    <span asp-validation-for="ExpectedCloseDate" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="CustomerId" class="control-label"></label>
+                    <select asp-for="CustomerId" asp-items="ViewBag.CustomerId" class="form-control"></select>
+                    <span asp-validation-for="CustomerId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
