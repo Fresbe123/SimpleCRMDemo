@@ -11,15 +11,12 @@ obj/
 .vs/
 *.vsidx
 
-## Logs e temporários
 logs/
 *.log
 *.tmp
 
-## Publicação
 publish/
 out/
 
-## Configurações sensíveis (mantenha appsettings.json genérico)
 appsettings.Production.json
 secrets.json
